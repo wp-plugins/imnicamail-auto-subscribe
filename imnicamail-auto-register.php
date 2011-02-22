@@ -2,9 +2,11 @@
 
     /**
     * Plugin Name: ImnicaMail Auto Register
-    * Description: {description}
+    * Plugin URI: http://www.imnicamail.com/
+    * Description: Auto register WordPress users to ImnicaMail.
+    * Version: 0.1
     * Author: ImnicaMail
-    * Author URI: http://www.imnicamail.com/ 
+    * Author URI: http://www.imnicamail.com
     */
     
     $im_ar_folder = basename(dirname(__FILE__));
